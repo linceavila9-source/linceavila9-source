@@ -121,17 +121,6 @@ Disciplinado, con fuerte lógica de programación y rápido aprendizaje. Busco a
 
 ---
 
-## Estadísticas de GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=linceavila9-source&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linceavila9-source&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## Mi canción favorita
 
 <div align="center">
@@ -159,3 +148,4 @@ Bryant Myers · Anuel AA · Almighty · Anonimus
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
 
 </div>
+
