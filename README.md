@@ -118,7 +118,7 @@ Disciplinado, con fuerte lógica de programación y rápido aprendizaje. Busco a
 <br/><br/>
 
 <a href="https:lince-ai-data-analyst.streamlit.app/">
-  <img src="https:img.shields.io/badge/Probar_App_en_Vivo-AI_Data_Analyst-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Probar AI Data Analyst en Vivo" />
+  <img src="https:img.shields.io/badge/App_en_Vivo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Probar AI Data Analyst en Vivo" />
 </a>
 
 </div>
