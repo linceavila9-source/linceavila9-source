@@ -111,13 +111,20 @@ Disciplinado, con fuerte lógica de programación y rápido aprendizaje. Busco a
 
 <div align="center">
 
-[![inkas-menu](https://github-readme-stats.vercel.app/api/pin/?username=linceavila9-source&repo=inkas-menu&theme=tokyonight&hide_border=true)](https://github.com/linceavila9-source/inkas-menu)
-[![Ajolote---Men-](https://github-readme-stats.vercel.app/api/pin/?username=linceavila9-source&repo=Ajolote---Men-&theme=tokyonight&hide_border=true)](https://github.com/linceavila9-source/Ajolote---Men-)
+<a href="https://github.com/linceavila9-source/ai-data-analyst-assistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=linceavila9-source&repo=ai-data-analyst-assistant&theme=tokyonight&hide_border=true" alt="ai-data-analyst-assistant"/> 
+</a>
 
-[![3sucursales](https://github-readme-stats.vercel.app/api/pin/?username=linceavila9-source&repo=3sucursales&theme=tokyonight&hide_border=true)](https://github.com/linceavila9-source/3sucursales)
-[![kahve-cafeteria](https://github-readme-stats.vercel.app/api/pin/?username=linceavila9-source&repo=kahve-cafeteria&theme=tokyonight&hide_border=true)](https://github.com/linceavila9-source/kahve-cafeteria)
+<br/><br/>
+
+<a href="https:lince-ai-data-analyst.streamlit.app/">
+  <img src="https:img.shields.io/badge/Probar_App_en_Vivo-AI_Data_Analyst-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Probar AI Data Analyst en Vivo" />
+</a>
 
 </div>
+
+
+
 
 ---
 
