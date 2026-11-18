@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Lince%20Marcel%20Avila%20Perez&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Full%20Stack%20Developer%20-%20AI%20Specialist&descAlignY=58&descSize=18" alt="banner" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Hello%2C+my+name+is+Lince+%F0%9F%91%8B;Full+Stack+%7C+AI+Integration+%7C+Cloud;Construyendo+soluciones+de+extremo+a+extremo" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Hello%2C+my+name+is+Lince;Full+Stack+%7C+AI+Integration+%7C+Cloud;Construyendo+soluciones+de+extremo+a+extremo" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://www.linkedin.com/in/lince-%C3%A1vila"><img src="https://img.shields.io/badge/LinkedIn-Lince_%C3%81vila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -14,17 +14,17 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Desarrollador **Junior Full Stack** con formación en **Ingeniería de Sistemas y Computación (UTP)**, enfocado en desarrollo Full Stack, **integración de Inteligencia Artificial** y soluciones en la nube. Me especializo en aplicaciones web en tiempo real, interfaces conversacionales y **chatbots analistas** para entornos corporativos.
 
 Disciplinado, con fuerte lógica de programación y rápido aprendizaje. Busco aportar valor técnico inmediato en desarrollo de software, integración de IA, infraestructura cloud o soporte de sistemas.
 
-> 🟢 **Abierto a oportunidades** · Presencial · Híbrido · Remoto
+> **Abierto a oportunidades** · Presencial · Híbrido · Remoto
 
 ---
 
-## 💻 Habilidades Tecnológicas
+## Habilidades Tecnológicas
 
 <div align="center">
 
@@ -39,7 +39,7 @@ Disciplinado, con fuerte lógica de programación y rápido aprendizaje. Busco a
 
 </div>
 
-## 🧠 IA, Datos y Bases de Datos
+## IA, Datos y Bases de Datos
 
 <div align="center">
 
@@ -54,7 +54,7 @@ Disciplinado, con fuerte lógica de programación y rápido aprendizaje. Busco a
 
 </div>
 
-## ☁️ Cloud, Observabilidad y Despliegue
+## Cloud, Observabilidad y Despliegue
 
 <div align="center">
 
@@ -69,7 +69,7 @@ Disciplinado, con fuerte lógica de programación y rápido aprendizaje. Busco a
 
 ---
 
-## 💼 Experiencia
+## Experiencia
 
 | Periodo | Rol | Organización |
 |---|---|---|
@@ -81,38 +81,35 @@ Disciplinado, con fuerte lógica de programación y rápido aprendizaje. Busco a
 
 ---
 
-## 🎓 Educación
+## Educación
 
-- 🏛️ **Universidad Tecnológica de Panamá** — Licenciatura en Ingeniería de Sistemas y Computación
-- 🔧 **Instituto Profesional y Técnico de Veraguas** — Bachillerato en Autotrónica
+- **Universidad Tecnológica de Panamá** — Licenciatura en Ingeniería de Sistemas y Computación
+- **Instituto Profesional y Técnico de Veraguas** — Bachillerato en Autotrónica
 
-## 🏆 Logros y Certificaciones Destacadas
+## Logros y Certificaciones Destacadas
 
 **Competencias y reconocimientos**
-- 🥈 Finalista — **Jornada de Iniciación Científica (JIC UTP 2026)**, Universidad Tecnológica de Panamá
-- 🏁 Participante — **7.ª Hackathon Copa Airlines** (DevOps, Azure, Dynatrace, API y Observabilidad)
-- 🌎 Competencias internacionales de desarrollo — **Hack4Edu**
-- 🎤 **COICIT 2025** — Congreso Internacional de Ciencia, Innovación y Tecnología (UTP)
+- Finalista — **Jornada de Iniciación Científica (JIC UTP 2026)**, Universidad Tecnológica de Panamá
+- Participante — **7.ª Hackathon Copa Airlines** (DevOps, Azure, Dynatrace, API y Observabilidad)
+- Competencias internacionales de desarrollo — **Hack4Edu**
+- **COICIT 2025** — Congreso Internacional de Ciencia, Innovación y Tecnología (UTP)
 
 **Cloud y Observabilidad**
-- ☁️ **AWS Educate: Introduction to Generative AI** — Amazon Web Services (2026)
-- ☁️ **AWS Educate: Cloud Computing 101** — Amazon Web Services (2026)
-- 📈 **Dynatrace Essentials** — Dynatrace (2026)
+- **AWS Educate: Introduction to Generative AI** — Amazon Web Services (2026)
+- **AWS Educate: Cloud Computing 101** — Amazon Web Services (2026)
+- **Dynatrace Essentials** — Dynatrace (2026)
 
 **IA, Python y Seguridad**
-- 🤖 **Inmersión Agentes de IA en la Práctica** — Daxus LATAM (2026)
-- 🐍 **Semana de Python en la Práctica** — Daxus LATAM (2026)
-- 🧠 **Inteligencia Artificial aplicada a la Gestión de Proyectos** — CAES Academy (2026)
-- 🔐 **Hacking Ético: de 0 a Hackear Aplicaciones** — BIG school (2026)
+- **Inmersión Agentes de IA en la Práctica** — Daxus LATAM (2026)
+- **Semana de Python en la Práctica** — Daxus LATAM (2026)
+- **Inteligencia Artificial aplicada a la Gestión de Proyectos** — CAES Academy (2026)
+- **Hacking Ético: de 0 a Hackear Aplicaciones** — BIG school (2026)
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 <div align="center">
-
-[![hoja-de-vida](https://github-readme-stats.vercel.app/api/pin/?username=linceavila9-source&repo=hoja-de-vida&theme=tokyonight&hide_border=true)](https://github.com/linceavila9-source/hoja-de-vida)
-[![calculadora-precios](https://github-readme-stats.vercel.app/api/pin/?username=linceavila9-source&repo=calculadora-precios&theme=tokyonight&hide_border=true)](https://github.com/linceavila9-source/calculadora-precios)
 
 [![inkas-menu](https://github-readme-stats.vercel.app/api/pin/?username=linceavila9-source&repo=inkas-menu&theme=tokyonight&hide_border=true)](https://github.com/linceavila9-source/inkas-menu)
 [![Ajolote---Men-](https://github-readme-stats.vercel.app/api/pin/?username=linceavila9-source&repo=Ajolote---Men-&theme=tokyonight&hide_border=true)](https://github.com/linceavila9-source/Ajolote---Men-)
@@ -124,7 +121,7 @@ Disciplinado, con fuerte lógica de programación y rápido aprendizaje. Busco a
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
 
@@ -135,18 +132,18 @@ Disciplinado, con fuerte lógica de programación y rápido aprendizaje. Busco a
 
 ---
 
-## 🎧 Mi canción favorita
+## Mi canción favorita
 
 <div align="center">
 
-**Esclava (Remix)** 🔥
+**Esclava (Remix)**
 
 Bryant Myers · Anuel AA · Almighty · Anonimus
 
 <a href="https://www.youtube.com/watch?v=ZFWpzlsGUnc"><img src="https://img.youtube.com/vi/ZFWpzlsGUnc/hqdefault.jpg" width="320" alt="Esclava Remix" /></a>
 
-[![Escuchar en YouTube](https://img.shields.io/badge/▶_Dale_play-Esclava_Remix-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ZFWpzlsGUnc)
-[![Escuchar en Spotify](https://img.shields.io/badge/▶_Dale_play-Esclava_Remix-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/search/Esclava%20Remix%20Bryant%20Myers%20Anuel%20AA%20Almighty%20Anonimus)
+[![Escuchar en YouTube](https://img.shields.io/badge/Escuchar-Esclava_Remix-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ZFWpzlsGUnc)
+[![Escuchar en Spotify](https://img.shields.io/badge/Escuchar-Esclava_Remix-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/search/Esclava%20Remix%20Bryant%20Myers%20Anuel%20AA%20Almighty%20Anonimus)
 
 </div>
 
@@ -154,7 +151,7 @@ Bryant Myers · Anuel AA · Almighty · Anonimus
 
 <div align="center">
 
-### 🤝 ¡Conectemos!
+### ¡Conectemos!
 
 <a href="https://www.linkedin.com/in/lince-%C3%A1vila"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:linceavila9@gmail.com"><img src="https://img.shields.io/badge/Escr%C3%ADbeme-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
